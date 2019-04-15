@@ -114,7 +114,3 @@ if __name__ == "__main__":
         print("Friend List of ",user," : ")
         print(gets.get_friend_list(num))
 
-    twitter_client = TwitterClient('pycon')
-    whatIGot = twitter_client.get_user_timeline_tweets(1)
-    print(whatIGot)
-    print(type(whatIGot))
