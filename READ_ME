@@ -1,0 +1,8 @@
+This is a basic project on Twitter Analysis. The three programs touch the introductory details of Social Network Analysis.
+
+#####App_1######
+This is the first program which allows users to stream live tweets based on certain keywords or stream tweets of a certain user.
+#####App_2######
+This program allows to create time series based on certain properties of tweets posted by a certain user. It also allows users to get relevant information about the tweets.
+#####App_3######
+This program touches the basic concept of Sentiment Analysis in Twitter using TextBlob and regex based on tweets posted by a certain user
