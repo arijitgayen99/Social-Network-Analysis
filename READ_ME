@@ -1,5 +1,6 @@
 This is a basic project on Twitter Analysis. The three programs touch the introductory details of Social Network Analysis.
-
+The twitter_acc file imported at the beginning is a python file which stores the 4 access credentials namely API key, secret API key, access token and secret access token.
+A Developer account must be created at Twitter and on creatin an app via Twitter Developer Account, you can get these access credentials.
 #####App_1######
 This is the first program which allows users to stream live tweets based on certain keywords or stream tweets of a certain user.
 #####App_2######
